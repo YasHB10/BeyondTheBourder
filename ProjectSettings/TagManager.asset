@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - FeetPlayer
+  - Enemy_Agent
+  - Hiding_Place
+  - EnemyAnimal
+  - Enemy_Narco
+  - Checkpoint
+  - Item_Health
+  - Jump_Area
+  - Enemy_View
+  - Control_Point
+  - Mom
+  - Coyote
+  - Boss
+  - DisableBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - PlayerMovement
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3985613139
+    locked: 0
+  - name: Foreground
+    uniqueID: 3509158225
+    locked: 0
+  - name: GUI
+    uniqueID: 207913721
+    locked: 0
